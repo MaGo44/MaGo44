@@ -22,10 +22,10 @@ Bienvenide a mi perfil de Git como alumna del Tec 👨 ✨ # Me llamo Maria Jose
 
 |       | Lunes                                 | Martes                                | Miercoles                             | Jueves                                | Viernes                |
 |-------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------|
-| 14:00 | Gestión de Proyectos de Software      | Gestión de proyectos de software      | Gestión de proyectos de software      | Gestión de proyectos de software      |                        |
-| 15:00 | Taller de Investigación               | Taller de investigación               | Taller de investigación               | Taller de investigación                |                        |
-| 16:00 | Lenguajes y Autómatas II              | Lenguajes y autómatas II              | Lenguajes y autómatas II              | Lenguajes y autómatas II              |                        |
-| 17:00 | Conmutación y Enrutamiento en Redes   | Conmutación y Enrutamiento en Redes   | Conmutación y Enrutamiento en Redes   | Conmutación y Enrutamiento en Redes    |                        |
-| 18:00 | Programación Web                      | Programación Web                      | Programación Web                      | Programación Web                      | Desarrollo Sustentable |
+| 14:00 | Gestión de Proyectos de Software      | Gestión de proyectos de software      | Gestión de proyectos de software      | Gestión de proyectos de software      | Gestión de Proyectos de Software      |
+| 15:00 | Taller de Investigación               | Taller de investigación               | Taller de investigación               | Taller de investigación                | Taller de Investigación               |
+| 16:00 | Lenguajes y Autómatas II              | Lenguajes y autómatas II              | Lenguajes y autómatas II              | Lenguajes y autómatas II              | Lenguajes y Autómatas II              |
+| 17:00 | Conmutación y Enrutamiento en Redes   | Conmutación y Enrutamiento en Redes   | Conmutación y Enrutamiento en Redes   | Conmutación y Enrutamiento en Redes    | Conmutación y Enrutamiento en Redes   |
+| 18:00 | Programación Web                      | Programación Web                      | Programación Web                      | Programación Web                      | Programación Web                      |
 |                        |
 
